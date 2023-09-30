@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sJava</string>
+    <string name="msg">Tap to start recording.\n Tap again to stop.</string>
+</resources>
