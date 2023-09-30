@@ -14,8 +14,5 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="CircularDeterminateProgressBar">
-        <item name="android:indeterminateOnly">false</item>
-        <item name="android:progressDrawable">@drawable/progress_shape</item>
-    </style>
+
 </resources>
